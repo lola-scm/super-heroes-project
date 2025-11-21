@@ -1,0 +1,20 @@
+[
+{
+  "name": "Spiderman",
+  "age": 30,
+  "city": "New York",
+  "power": "spider-sens"
+},
+{
+  "name": "Batman",
+  "age": 45,
+  "city": "Gotham City",
+  "power": "money"
+},
+{
+  "name": "Superman",
+  "age": 25,
+  "city": "Metropolis",
+  "power": "Strengh"
+}
+]
